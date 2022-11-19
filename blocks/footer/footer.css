@@ -5,6 +5,7 @@
     width: 100%;
     padding-top: 92px;
     padding-bottom: 24px;
+    flex: 0 0 auto;
 }
 
 @media screen and (max-width: 1279px) {

@@ -6,3 +6,9 @@
     color: rgba(170, 170, 170, 1);
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 767px) {
+    .place__url-heading {
+        margin-top: 0;
+    }
+}
